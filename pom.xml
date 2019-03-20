@@ -46,7 +46,7 @@
     <dependency>
       <groupId>com.google.apis</groupId>
       <artifactId>google-api-services-oauth2</artifactId>
-      <version>v1-rev110-1.21.0</version>
+      <version>v2-rev20190313-1.28.0</version>
     </dependency>
     <dependency>
       <groupId>commons-logging</groupId>
